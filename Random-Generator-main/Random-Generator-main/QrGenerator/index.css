@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .container {
+    height: auto;
+    max-width: 800px;
+    margin: 10% auto;
+    padding: 1.6rem;
+    border-radius: 19px;
+    background-color: rgb(240, 252, 237);
+  }
+  
+ .quotes{
+  color: black;
+  font-weight: 800;
+  padding: 1.0rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+  .btn{
+    padding: 1.0rem;
+    max-width: 900px;
+    background-color: rgb(0, 0, 0);
+    cursor: pointer; 
+    margin-left: 40%;
+    margin-top: 15px;
+    color: white;
+  
+  }
+
+
+  #text{
+    text-align: center;
+    color: rgb(250, 0, 0);
+    font-weight: bold;
+    padding: 1.0rem;
+    font-size: 1.6rem;
+  }
+
+  #authorName{
+    text-align: center;
+    font-size: 1.1rem;
+
+  }
+ 
